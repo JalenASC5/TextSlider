@@ -1,1 +1,1 @@
-# TextSlider
+# Text Slider [Created with StartBootstrap New Age]
